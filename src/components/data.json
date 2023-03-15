@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "fullName": "mudasser",
+      "lastName": "rasool",
+      "email": "mudasser@gmail.com",
+      "phone": "03010773586",
+      "adress": "lahore",
+      "zip": "52000"
+    },
+    {
+      "id": 2,
+      "fullName": "2mudasser",
+      "lastName": "2rasool",
+      "email": "2mudasser@gmail.com",
+      "phone": "203010773586",
+      "adress": "2lahore",
+      "zip": "252000"
+    },
+    {
+      "id": 3,
+      "fullName": "3mudasser",
+      "lastName": "3rasool",
+      "email": "3mudasser@gmail.com",
+      "phone": "303010773586",
+      "adress": "3lahore",
+      "zip": "352000"
+    }
+]
